@@ -1,0 +1,7 @@
+# Default #
+.classpath
+.idea/
+.project
+.settings
+target/
+*.iml
