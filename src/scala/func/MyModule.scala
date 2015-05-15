@@ -77,7 +77,6 @@ object MyModule {
   }
 
   def fact(a: Int): Int = {
-
     if(a < 0) a
     else a + fact(a-1)
 
